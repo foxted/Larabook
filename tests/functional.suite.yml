@@ -6,4 +6,4 @@
 
 class_name: FunctionalTester
 modules:
-    enabled: [Filesystem, FunctionalHelper, Laravel4]
+    enabled: [Filesystem, FunctionalHelper, Laravel4, Asserts]
