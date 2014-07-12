@@ -1,10 +1,5 @@
 <?php
 
-Event::listen('Larabook.Registration.Events.UserRegistered', function($event)
-{
-    dd('User registration email');
-});
-
 Route::get('/', [
     'as' => 'home',
     'uses' => 'PagesController@home'

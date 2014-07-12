@@ -56,3 +56,7 @@ For larger applications that need to be maintained for years, it makes sense to 
 ### 11. [Domain Events](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/11)
 
 Because we've taken some time to structure our app in this manner, we now have a really simple way to queue and listen for domain events. Let me show you.
+
+### 12. [Super Easy Flash Messaging](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/12)
+
+How many times have you created the necessary views to display flash messages? Lots? Well, in this episode, I'll show you how we can tackle this very quickly.

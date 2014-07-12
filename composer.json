@@ -6,7 +6,8 @@
 	"require": {
 		"laravel/framework": "4.2.*",
         "laracasts/commander":"~1.0",
-        "laracasts/validation":"1.1.*"
+        "laracasts/validation":"1.1.*",
+        "laracasts/flash":"~1.0"
 	},
     "require-dev": {
         "way/generators"         : "~2.0",
