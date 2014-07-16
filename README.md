@@ -68,3 +68,7 @@ Right now, we can register a user; however, we still need to provide more feedba
 ### 14. [Signing In](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/14)
 
 Now that a user can successfully register, we next need to give them a way to login and logout!
+
+### 15. [Returning the Tests to Green](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/14)
+
+If you're working along, you might have encountered a confusing Codeception bug. Don't worry: as they say, it's Codeception, not you. Let's take a look.

@@ -10,7 +10,7 @@
 
     @if( ! $currentUser )
         <p>
-            {{ link_to_route('register_path', 'Sign Up!', null, ['class' => 'btn btn-lg btn-primary']) }}
+            {{ link_to_route('register_path', 'Sign Up', null, ['class' => 'btn btn-lg btn-primary']) }}
         </p>
     @endif
 </div>

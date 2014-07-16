@@ -42,9 +42,9 @@ class SessionsController extends \BaseController {
 
         if( Auth::attempt($formData) )
         {
-            Flash::message('Welcome back!');
+            Flash::message('Welcome back');
 
-            return Redirect::to('statuses');
+            return Redirect::intended('statuses');
         }
 	}
 

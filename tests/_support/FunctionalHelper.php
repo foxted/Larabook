@@ -26,7 +26,7 @@ class FunctionalHelper extends \Codeception\Module
 
     public function haveAnAccount($overrides = [])
     {
-        TestDummy::create('Larabook\Users\User');
+        TestDummy::create('Larabook\Users\User', $overrides);
     }
 
 }
