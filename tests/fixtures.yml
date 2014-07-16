@@ -4,3 +4,10 @@ Larabook\Users\User:
   password: $string
   created_at: $date
   updated_at: $date
+
+Larabook\Statuses\Status:
+  user_id:
+    type: Larabook\Users\User
+  body: $text
+  created_at: $date
+  updated_at: $date

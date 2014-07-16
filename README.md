@@ -69,6 +69,10 @@ Right now, we can register a user; however, we still need to provide more feedba
 
 Now that a user can successfully register, we next need to give them a way to login and logout!
 
-### 15. [Returning the Tests to Green](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/14)
+### 15. [Returning the Tests to Green](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/15)
 
 If you're working along, you might have encountered a confusing Codeception bug. Don't worry: as they say, it's Codeception, not you. Let's take a look.
+
+### 16. [Publishing Statuses](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/16)
+
+It's time to allow our authenticated users to publish statuses to their profile. We have a number of things to do in this episode, so grab a cup of coffee, and let's do this.
