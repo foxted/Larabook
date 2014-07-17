@@ -76,3 +76,7 @@ If you're working along, you might have encountered a confusing Codeception bug.
 ### 16. [Publishing Statuses](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/16)
 
 It's time to allow our authenticated users to publish statuses to their profile. We have a number of things to do in this episode, so grab a cup of coffee, and let's do this.
+
+### 17. [Integration Testing Repositories](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/17)
+
+So far, we've exclusively created functional tests. However, often, it can be beneficial to test at a lower level. In this episode, we'll setup Codeception to execute our integration tests, using a repository as an example. Hopefully, you'll see just how easy it can be.
