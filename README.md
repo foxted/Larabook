@@ -80,3 +80,8 @@ It's time to allow our authenticated users to publish statuses to their profile.
 ### 17. [Integration Testing Repositories](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/17)
 
 So far, we've exclusively created functional tests. However, often, it can be beneficial to test at a lower level. In this episode, we'll setup Codeception to execute our integration tests, using a repository as an example. Hopefully, you'll see just how easy it can be.
+
+### 18. [Gravatars and View Presenters](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/18)
+
+At least for now, rather than making Larabook users upload profile images, we'll simply leverage the popular Gravatar service. Along the way, I'll show you three different ways to "store" this logic for fetching the appropriate Gravatar.
+

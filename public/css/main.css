@@ -1,5 +1,12 @@
 body {
   padding-top: 70px; }
 
+.nav-gravatar {
+  float: left;
+  position: relative;
+  top: -6px;
+  left: -10px;
+  border: 1px solid #555; }
+
 .container h1:first-of-type {
   margin-top: 0px; }
