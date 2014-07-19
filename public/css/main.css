@@ -10,3 +10,27 @@ body {
 
 .container h1:first-of-type {
   margin-top: 0px; }
+
+.status-post {
+  border: 1px solid #E3E3E3;
+  background: white;
+  margin-bottom: 3em;
+  padding: 0; }
+  .status-post textarea {
+    border: none; }
+    .status-post textarea:focus {
+      -webkit-box-shadow: none;
+              box-shadow: none; }
+  .status-post .status-post-submit {
+    border-top: 1px solid #E9E9E9;
+    padding: 0.5em 1em;
+    margin-bottom: 0;
+    overflow: hidden; }
+    .status-post .status-post-submit .btn {
+      float: right; }
+
+.status-media {
+  border: 1px solid #E3E3E3;
+  background: white;
+  padding: 1em;
+  margin-bottom: 2em; }
