@@ -13,7 +13,8 @@
     "require-dev": {
         "way/generators"         : "~2.0",
         "codeception/codeception": "2.0.*@dev",
-        "laracasts/testdummy":"~1.0"
+        "laracasts/testdummy":"~1.0",
+        "fzaninotto/faker": "1.4.*"
     },
 	"autoload": {
 		"classmap": [

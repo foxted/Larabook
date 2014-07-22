@@ -88,3 +88,7 @@ At least for now, rather than making Larabook users upload profile images, we'll
 ### 19. [Designing Statuses](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/19)
 
 Right now, the status page looks terrible. I know we're interested in the code, but let's take at least ten minutes to make it look prettier.
+
+### 20. [Dummy Users and Statuses](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/20)
+
+So far, we've been manually creating records. Naturally, though, it makes sense to mass-create users and statuses, for the purposes of testing in the browser. Let me show you a streamlined way to accomplish this.
