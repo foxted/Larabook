@@ -92,3 +92,7 @@ Right now, the status page looks terrible. I know we're interested in the code, 
 ### 20. [Dummy Users and Statuses](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/20)
 
 So far, we've been manually creating records. Naturally, though, it makes sense to mass-create users and statuses, for the purposes of testing in the browser. Let me show you a streamlined way to accomplish this.
+
+### 21. [Browsing Users With Pagination](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/21)
+
+We need to offer some way for users to browse through all registered members of Larabook. That way, they can have the option of "following" any developers who post interesting statuses. Let's handle that in this lesson, while also implementing pagination.
