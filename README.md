@@ -100,3 +100,7 @@ We need to offer some way for users to browse through all registered members of 
 ### 22. [Profiles](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/22)
 
 In the previous episode, we managed to display all registered Larabook users; however, we stopped just short of offering a way to link to their respective profiles. Let's tackle that in this episode.
+
+### 23. [Refactoring Session #1](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/23)
+
+Before we move on to allowing Larabook users to follow one another, let's first take a short break and do a bit of miscellaneous refactoring. Luckily, because we have a growing test suite, we should be able to tackle this with a good sense of confidence.
