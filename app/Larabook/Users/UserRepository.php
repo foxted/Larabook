@@ -42,5 +42,22 @@ class UserRepository
         }])->whereUsername($username)->first();
     }
 
-    
+    /**
+     * Find a user by their id
+     * @param $id
+     */
+    public function findById($id)
+    {
+        return User::findOrFail($id);
+    }
+
+    /**
+     * Follow a Larabook user
+     * @param      $userIdToFollow
+     * @param User $user
+     */
+    public function follow($userIdToFollow, User $user)
+    {
+        return $user->follows()->attach($userIdToFollow);
+    }
 } 

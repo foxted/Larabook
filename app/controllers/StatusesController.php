@@ -33,7 +33,7 @@ class StatusesController extends \BaseController {
 	 */
 	public function index()
 	{
-        $statuses = $this->statusRepository->getAllForUser(Auth::user());
+        $statuses = $this->statusRepository->getFeedForUser(Auth::user());
 
 		return View::make('statuses.index', compact('statuses'));
 	}
@@ -57,8 +57,7 @@ class StatusesController extends \BaseController {
 	 */
 	public function store()
 	{
-        $input = Input::all();
-        $input['userId'] = Auth::id();
+        $input = array_add(Input::all(), 'userId', Auth::id());
 
         $this->publishStatusForm->validate($input);
 
