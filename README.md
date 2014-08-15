@@ -108,3 +108,7 @@ Before we move on to allowing Larabook users to follow one another, let's first 
 ### 24. [Following Users](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/24)
 
 At this point, we need to offer the ability for Larabook users to follow one another. This way, in their respective feeds, they can see, not only their own statuses, but all the statuses of those they follow. Over the next two lessons, I'll demonstrate two different ways to tackle this. Let's get started with the first approach!
+
+### 25. [Following Users: Part 2](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/25)
+
+We've mostly implemented our "follow" functionality; however, I'd like to do some cleanup, and also write some tests.
