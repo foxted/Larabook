@@ -112,3 +112,7 @@ At this point, we need to offer the ability for Larabook users to follow one ano
 ### 25. [Following Users: Part 2](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/25)
 
 We've mostly implemented our "follow" functionality; however, I'd like to do some cleanup, and also write some tests.
+
+### 26. [Site Review and Tweaks](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/26)
+
+In this episode, we'll take a stroll through the site, while reviewing some key sections that need to be tweaked.
