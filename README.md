@@ -126,3 +126,7 @@ When a user signs up for Larabook, we need to send them a welcome email. Hmm - w
 Though Larabook doesn't have much CSS, it's still important that we structure and organize it in a maintainable way. Let's extract some partials and modules!
 
 **This lesson is using the design made by @amite that you can find here : [https://gist.github.com/amite/593eb62dc1ca013999c1](https://gist.github.com/amite/593eb62dc1ca013999c1)
+
+### 29. [The Password Reset Process](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/29)
+
+What if one of our Larabook members forgets their password? Right now, they're completely out of luck! Clearly, this must be fixed. Let's implement a solution in ten minutes.

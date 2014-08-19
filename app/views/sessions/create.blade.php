@@ -18,6 +18,7 @@
 
             <div class="form-group">
                 {{ Form::submit('Sign In', ['class' => 'btn btn-primary']) }}
+                {{ link_to('password/remind', 'Reset Your Password') }}
             </div>
             {{ Form::close() }}
         </div>
