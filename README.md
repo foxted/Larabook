@@ -120,3 +120,9 @@ In this episode, we'll take a stroll through the site, while reviewing some key 
 ### 27. [Handlers & Mailers](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/27)
 
 When a user signs up for Larabook, we need to send them a welcome email. Hmm - what's a clean way to implement this?
+
+### 28. [Sass Partials](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/28)
+
+Though Larabook doesn't have much CSS, it's still important that we structure and organize it in a maintainable way. Let's extract some partials and modules!
+
+**This lesson is using the design made by @amite that you can find here : [https://gist.github.com/amite/593eb62dc1ca013999c1](https://gist.github.com/amite/593eb62dc1ca013999c1)
