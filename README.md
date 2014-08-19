@@ -116,3 +116,7 @@ We've mostly implemented our "follow" functionality; however, I'd like to do som
 ### 26. [Site Review and Tweaks](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/26)
 
 In this episode, we'll take a stroll through the site, while reviewing some key sections that need to be tweaked.
+
+### 27. [Handlers & Mailers](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/27)
+
+When a user signs up for Larabook, we need to send them a welcome email. Hmm - what's a clean way to implement this?
