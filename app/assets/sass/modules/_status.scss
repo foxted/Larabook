@@ -1,39 +1,54 @@
 // Each individual status
-.status-media
+.status-media, .comment-media
 {
     border        : 1px solid #E3E3E3;
     background    : white;
     padding       : 1em;
-    margin-bottom : 2em;
+    border-bottom: none;
 }
 
-.status-media-heading
+.status-media-heading, .comment-media-heading
 {
     color    : rgb(64, 157, 209);
     position : relative;
-    top      : 5px;
 }
 
 .status-media-body
 {
     color     : #B3BAC0;
     font-size : 1.5em;
-    padding   : 1em;
+    p{
+        padding: 1em 0;
+    }
+}
+
+.comment-media-body{
+    color:     #B3BAC0;
+    font-size: 1em;
+    p{
+        padding: 1em 0;
+    }
+}
+
+.comments__create-form textarea {
+        border: 1px solid #E3E3E3;
+        border-top: none;
+        border-radius: 0;
 }
 
 .status-media-object
 {
     position : relative;
-    top      : 13px;
+    top      : 0;
     border   : 1px solid rgb(238, 238, 238);
 }
 
 .status-media-time
 {
-    text-transform : uppercase;
-    font-size      : 0.7em;
-    letter-spacing : 0.15em;
+    text-transform : lowercase;
+    font-size      : 0.6em;
     color          : rgb(204, 208, 211);
+    display: block;
 }
 
 // The form to publish a new status
@@ -78,4 +93,15 @@
         }
 
     }
+}
+
+.comments{
+    margin-bottom: 5em;
+}
+
+.comments__comment{
+    background: darken(white, 5%);
+    margin-top: 0;
+    border: 1px solid darken(white, 15%);
+    border-bottom: 1px solid #E3E3E3;
 }

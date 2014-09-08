@@ -130,3 +130,7 @@ Though Larabook doesn't have much CSS, it's still important that we structure an
 ### 29. [The Password Reset Process](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/29)
 
 What if one of our Larabook members forgets their password? Right now, they're completely out of luck! Clearly, this must be fixed. Let's implement a solution in ten minutes.
+
+### 30. [Status Comments](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/30)
+
+A core feature of Larabook hasn't yet been implemented. Users need to have the ability to comment on existing statuses. We'll implement that very thing in this episode.
