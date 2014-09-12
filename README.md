@@ -1,5 +1,6 @@
 # Larabook
 
+*Deprecated*: Jeffrey just pushed a official repository for this serie: [https://github.com/laracasts/larabook](https://github.com/laracasts/larabook)
 
 Just following the tutorial of Jeffrey Way on Laracasts. Here is a quick reminder of the topics covered in the lessons.
 
