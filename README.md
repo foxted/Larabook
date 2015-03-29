@@ -1,3 +1,5 @@
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/foxted)
+
 # Larabook
 
 **Deprecated: Jeffrey just pushed a official repository for this serie => [https://github.com/laracasts/larabook](https://github.com/laracasts/larabook)**
